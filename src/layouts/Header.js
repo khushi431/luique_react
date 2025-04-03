@@ -252,9 +252,9 @@ const Header = () => {
                                     <a
                                       className="splitting-text-anim-1"
                                       data-splitting="chars"
-                                    >
+                                    >  
                                       Single Post
-                                    </a>
+                                    </a>  
                                   </Link>
                                 </li>
                               </ul>
